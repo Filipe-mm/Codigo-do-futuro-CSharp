@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2json", "Ex2json.csproj", "{C93F6AC6-9B03-40F1-9BAD-5CD3A3E4190B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C93F6AC6-9B03-40F1-9BAD-5CD3A3E4190B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93F6AC6-9B03-40F1-9BAD-5CD3A3E4190B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93F6AC6-9B03-40F1-9BAD-5CD3A3E4190B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93F6AC6-9B03-40F1-9BAD-5CD3A3E4190B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {737DC3ED-7E2D-4AFF-AB7B-8F78984F1FA1}
+	EndGlobalSection
+EndGlobal

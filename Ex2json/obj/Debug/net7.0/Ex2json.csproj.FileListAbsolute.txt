@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\bin\Debug\net7.0\Ex2json.exe
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\bin\Debug\net7.0\Ex2json.deps.json
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\bin\Debug\net7.0\Ex2json.runtimeconfig.json
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\bin\Debug\net7.0\Ex2json.dll
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\bin\Debug\net7.0\Ex2json.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\obj\Debug\net7.0\Ex2json.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\obj\Debug\net7.0\Ex2json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\obj\Debug\net7.0\Ex2json.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\obj\Debug\net7.0\Ex2json.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\obj\Debug\net7.0\Ex2json.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\obj\Debug\net7.0\Ex2json.dll
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\obj\Debug\net7.0\refint\Ex2json.dll
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\obj\Debug\net7.0\Ex2json.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\obj\Debug\net7.0\Ex2json.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Área de Trabalho\.Net\Ex2json\obj\Debug\net7.0\ref\Ex2json.dll
